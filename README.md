@@ -7,11 +7,13 @@ This project was completed as part of a Data Analyst Internship Task with the go
 The interactive dashboard was created using Power BI to provide a 360-degree view of sales performance across time, geography, and products—enabling better data-driven decision-making.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Dataset Details
+
  •Name: Sales Dataset by Mike Taylor
- •Source: Kaggle
+ •Source: [Kaggle](https://www.kaggle.com/datasets/miketaylor123/sales-data)
  •Format: CSV (cleaned version: train.csv)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Tools & Technologies
+
  •Power BI Desktop – for creating data visualizations and dashboards
  •Microsoft Excel – for preliminary data cleaning and inspection
  •GitHub – for version control and sharing project files
