@@ -58,7 +58,6 @@ Files Included
 
 | File Name              | Description                                     |
 | ---------------------- | ----------------------------------------------- |
-| `train.csv`            | Cleaned dataset used for analysis and dashboard |
 | `Sales_Dashboard.pbix` | Power BI dashboard file                         |
 | `Sales_Report.pdf`     | Static report version exported from Power BI    |
 | `README.md`            | Project documentation (this file)               |
