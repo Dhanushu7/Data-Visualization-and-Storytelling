@@ -2,8 +2,8 @@ ________________________________________________________________________________
                                    Sales Dashboard – Data Analyst Internship Project
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Overview
-This project was completed as part of a Data Analyst Internship Task with the goal of applying data visualization and storytelling techniques to uncover key business insights from a real-world sales dataset.
 
+This project was completed as part of a Data Analyst Internship Task with the goal of applying data visualization and storytelling techniques to uncover key business insights from a real-world sales dataset.
 The interactive dashboard was created using Power BI to provide a 360-degree view of sales performance across time, geography, and products—enabling better data-driven decision-making.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Dataset Details
