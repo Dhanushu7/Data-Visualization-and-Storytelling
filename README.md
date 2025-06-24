@@ -9,13 +9,17 @@ ________________________________________________________________________________
 Dataset Details
 
 •Name: Sales Dataset by Mike Taylor
+
 •Source: [Kaggle](https://www.kaggle.com/datasets/miketaylor123/sales-data)
+
 •Format: CSV (cleaned version: train.csv)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Tools & Technologies
 
  •Power BI Desktop – for creating data visualizations and dashboards
+ 
  •Microsoft Excel – for preliminary data cleaning and inspection
+ 
  •GitHub – for version control and sharing project files
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Key Visualizations
