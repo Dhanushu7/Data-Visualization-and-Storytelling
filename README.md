@@ -8,9 +8,9 @@ The interactive dashboard was created using Power BI to provide a 360-degree vie
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Dataset Details
 
- •Name: Sales Dataset by Mike Taylor
- •Source: [Kaggle](https://www.kaggle.com/datasets/miketaylor123/sales-data)
- •Format: CSV (cleaned version: train.csv)
+•Name: Sales Dataset by Mike Taylor
+•Source: [Kaggle](https://www.kaggle.com/datasets/miketaylor123/sales-data)
+•Format: CSV (cleaned version: train.csv)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Tools & Technologies
 
